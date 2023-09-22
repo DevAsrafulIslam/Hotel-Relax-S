@@ -1,0 +1,92 @@
+[
+  {
+    "recipe_id": "1",
+    "recipe_picture": "https://images.unsplash.com/photo-1576458088443-04a19bb13da6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "recipe_name": "Three-Cheese Pizza",
+    "cheeses_name": "Mozzarella, Cheddar, Parmesan",
+    "short_description": "Delicious homemade pizza with a trio of cheeses.",
+    "price": 12.99,
+    "rating": 4.5
+  },
+  {
+    "recipe_id": "2",
+    "recipe_picture": "https://images.unsplash.com/photo-1591798454113-023d7379221f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "recipe_name": "Spaghetti Carbonara",
+    "cheeses_name": "Parmesan, Pecorino",
+    "short_description": "Classic Italian pasta dish with a creamy cheese sauce.",
+    "price": 15.49,
+    "rating": 4.2
+  },
+  {
+    "recipe_id": "3",
+    "recipe_picture": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2015&q=80",
+    "recipe_name": "Cheese burger",
+    "cheeses_name": "American",
+    "short_description": "Classic American cheeseburger with melted cheese.",
+    "price": 9.99,
+    "rating": 4.0
+  },
+  {
+    "recipe_id": "4",
+    "recipe_picture": "https://images.unsplash.com/photo-1683314573422-649a3c6ad784?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "recipe_name": "Four-Cheese Lasagna",
+    "cheeses_name": "Mozzarella, Ricotta, Parmesan, Provolone",
+    "short_description": "Hearty lasagna layered with four different cheeses.",
+    "price": 17.99,
+    "rating": 4.7
+  },
+  {
+    "recipe_id": "5",
+    "recipe_picture": "https://images.unsplash.com/photo-1512852939750-1305098529bf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "recipe_name": "Caesar Salad",
+    "cheeses_name": "Parmesan",
+    "short_description": "A Caesar salad with crisp romaine lettuce and Parmesan cheese.",
+    "price": 8.99,
+    "rating": 4.1
+  },
+  {
+    "recipe_id": "6",
+    "recipe_picture": "https://images.unsplash.com/photo-1525956359514-fe52f317eb8d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "recipe_name": "Grilled Cheese Sandwich",
+    "cheeses_name": "Cheddar",
+    "short_description": "Classic comfort food - a crispy grilled cheese sandwich.",
+    "price": 6.99,
+    "rating": 4.3
+  },
+  {
+    "recipe_id": "7",
+    "recipe_picture": "https://images.unsplash.com/photo-1606659894340-67897be51c63?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "recipe_name": "Chicken Alfredo",
+    "cheeses_name": "Parmesan",
+    "short_description": "Creamy chicken and pasta dish with a Parmesan cheese sauce.",
+    "price": 14.99,
+    "rating": 4.4
+  },
+  {
+    "recipe_id": "8",
+    "recipe_picture": "https://images.unsplash.com/photo-1452195100486-9cc805987862?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80f",
+    "recipe_name": "Cheese and Broccoli Stuffed Potatoes",
+    "cheeses_name": "Cheddar",
+    "short_description": "Baked potatoes stuffed with cheese and broccoli.",
+    "price": 10.99,
+    "rating": 4.0
+  },
+  {
+    "recipe_id": "9",
+    "recipe_picture": "https://plus.unsplash.com/premium_photo-1677619680730-b1d7311990f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "recipe_name": "Caprese Salad",
+    "cheeses_name": "Mozzarella",
+    "short_description": "A light and refreshing salad with tomatoes, mozzarella, and basil.",
+    "price": 9.49,
+    "rating": 4.6
+  },
+  {
+    "recipe_id": "10",
+    "recipe_picture": "https://images.unsplash.com/photo-1564834744159-ff0ea41ba4b9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "recipe_name": "Spinach and Feta Stuffed Chicken",
+    "cheeses_name": "Feta",
+    "short_description": "Tender chicken breasts stuffed with spinach and feta cheese.",
+    "price": 16.99,
+    "rating": 4.8
+  }
+]
