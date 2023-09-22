@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Tell us the differences between uncontrolled and controlled components",
+    "answer": "In React, controlled components refer to components that have their state and behavior controlled by the parent component. These components rely on props passed down from the parent component to update their state and behavior. Uncontrolled components refer to components that manage their own state internally."
+  },
+  {
+    "question": " How to validate react props using prototypes 1. any : The prop can be of",
+    "answer": "any data type. 2. bool : The prop should be a Boolean. 3. number : The prop should be a number. 4. string : The prop should be a string. 5. func : The prop should be a function. 6. array : The prop should be anarray. 7. object : The prop should be an object."
+  },
+  {
+    "question": "Tell us the difference between nodes and express js",
+    "answer": " NodeJS is a javascript runtime environment for running JavaScript programs and is used to build server-side applications. ExpressJS is a web framework that enables you to design a web application to handle a variety of different HTTP demands. You can use NodeJS to build a multi-user, real-time web service."
+  },
+  {
+    "question": "What is custom hook and why will you create a custom hook",
+    "answer": " Custom Hooks are a mechanism to reuse stateful logic (such as setting up a subscription and remembering the current value), but every time you use a custom Hook, all state and effects inside of it are fully isolated."
+  }
+]
